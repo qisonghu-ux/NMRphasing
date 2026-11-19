@@ -1,4 +1,4 @@
-# NMRphasing
+# Carpentry's NMRphasing
 
 NMRphasing is an R package designed for the correction of phase errors
 in NMR data. While its primary focus is on 1D NMR data, it can also be
